@@ -1,4 +1,7 @@
 {
     "workbench.startupEditor": "readme",
-    "workbench.editor.enablePreview": true
+    "workbench.editor.enablePreview": true,
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
